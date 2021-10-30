@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TeamScore
+comment0.text=\r\n\ represents\ the\ score\ for\ a\ team\r\n\ \r\n\ @author\ Benson\ Mugure\r\n
+comment1.params=
+comment1.target=TeamScore()
+comment1.text=\r\n\ constructor\ for\ objects\ of\ type\ TeamScore\r\n
+comment2.params=teamName
+comment2.target=TeamScore(java.lang.String)
+comment2.text=\r\n\ constructor\ for\ objects\ of\ type\ TeamScore\r\n\ @param\ teamName\ \ the\ team\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTeamName()
+comment3.text=\r\n\ returns\ the\ team\ name\r\n\ \r\n\ @return\ the\ team\ name\r\n
+comment4.params=teamName
+comment4.target=void\ setTeamName(java.lang.String)
+comment4.text=\r\n\ sets\ the\ team\ name\r\n\ \r\n\ @param\ teamName\ \ the\ team\ name\r\n
+comment5.params=
+comment5.target=int\ getScore()
+comment5.text=\r\n\ returns\ the\ score\ for\ the\ team\r\n\ \r\n\ @return\ \ the\ score\r\n
+comment6.params=
+comment6.target=void\ resetScore()
+comment6.text=\r\n\ resets\ the\ score\ to\ 0\r\n
+comment7.params=
+comment7.target=void\ updateScore()
+comment7.text=\r\n\ updates\ score\ when\ a\ goal\ is\ scored\r\n\ \r\n
+numComments=8

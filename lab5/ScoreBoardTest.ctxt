@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ScoreBoardTest
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ScoreBoardTest\ here.\r\n\r\n\ @Beson\ Mugure\ (your\ name)\r\n\ @version1\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ testConstructor()
+comment1.text=\r\n\ New\ Method\r\n
+comment2.params=
+comment2.target=void\ testUpdate()
+comment2.text=\r\n\ New\ Method\r\n
+numComments=3

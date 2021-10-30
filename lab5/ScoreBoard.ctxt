@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\ represents\ a\ football\ scoreboard\r\n\ \r\n\ @author\ Benson\ Mugure\r\n
+comment1.params=
+comment1.target=ScoreBoard()
+comment1.text=\r\n\ constructor\ for\ objects\ of\ type\ ScoreBoard\r\n
+comment2.params=home
+comment2.target=void\ setHome(TeamScore)
+comment2.text=\r\n\ set\ the\ home\ team\ score\r\n\ \r\n\ @param\ home\ \ the\ home\ team\ score\r\n
+comment3.params=away
+comment3.target=void\ setAway(TeamScore)
+comment3.text=\r\n\ set\ the\ away\ team\ score\r\n\ \r\n\ @param\ away\ \ the\ away\ team\ score\r\n
+comment4.params=
+comment4.target=int\ getMinutesPlayed()
+comment4.text=\r\n\ returns\ the\ number\ of\ minutes\ played\r\n\ \r\n\ @return\ the\ number\ of\ minutes\ played\r\n
+comment5.params=minutesPlayed
+comment5.target=void\ setMinutesPlayed(int)
+comment5.text=\r\n\ sets\ the\ number\ of\ minutes\ played\r\n\ \r\n\ @param\ minutesPlayed\ the\ number\ of\ minutes\ played\r\n
+comment6.params=x
+comment6.target=void\ goalScored(java.lang.String)
+comment6.text=\r\n\ calls\ other\ methods\ depending\ on\ input\r\n\ \r\n\ \r\n
+comment7.params=
+comment7.target=void\ display()
+comment8.params=a\ b
+comment8.target=void\ setUpGame(java.lang.String,\ java.lang.String)
+numComments=9
